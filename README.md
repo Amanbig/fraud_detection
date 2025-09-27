@@ -79,7 +79,7 @@ The system uses a fraud detection dataset with the following features:
 
 1. **Clone or Download the Project**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Amanbig/fraud_detection
    cd assign_fraud
    ```
 
